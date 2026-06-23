@@ -8,13 +8,13 @@
   align-items: center;
 }
 
+.header-logo {
+  margin-right: 76px;
+}
+
 .navigation {
   display: flex;
   align-items: center;
-}
-
-.header-logo {
-  margin-right: 76px;
 }
 
 .navigation-list {
