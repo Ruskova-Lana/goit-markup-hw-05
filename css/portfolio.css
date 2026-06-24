@@ -40,6 +40,13 @@
   overflow: hidden;
 }
 
+.portfolio-image-wrapper img {
+  display: block;
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
 .portfolio-overlay {
   position: absolute;
   top: 0;
